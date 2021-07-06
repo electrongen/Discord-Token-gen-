@@ -16,5 +16,8 @@ TUTO :
 4) lancez le CMD en tant qu'administrateur , très important 
 5) une fois lancé vous écrirez : "node ( espace ) ."
 6) il faudra attendre un peu et vous aurez accès au génarateur de token ( suffit de taper sur espace puis mettre le nombre de tokens que vous voulez génerer)
+7) tapez le numéro 4 ( token génerator ) puis mettez le nombre de tokens que vous voulez génerer
+8) les tokens valides seront dans un fichiers tokens 
 
-( j'ai une vidéo youtube c'est pour ca )
+
+https://github.com/electrongen/Discord-Token-gen-
